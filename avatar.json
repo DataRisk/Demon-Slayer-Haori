@@ -3,6 +3,6 @@
 	"author": "Woodwind/DataRisk",
 	"color": "008080",
 	"autoScripts": [
-		"vanilla_model.lua"
+		"Main.lua"
 	]
 }
