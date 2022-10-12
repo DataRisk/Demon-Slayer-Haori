@@ -2,7 +2,5 @@
 	"name": "Demon Slayer Haori",
 	"author": "Woodwind/DataRisk",
 	"color": "008080",
-	"autoScripts": [
-		"Main.lua"
-	]
+	
 }
